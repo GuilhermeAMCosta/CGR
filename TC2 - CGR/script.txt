@@ -1,0 +1,10 @@
+Garanta que as Blibliotecas do OpenGL estejam instaladas
+
+1- Para SnowMan.cpp
+$ g++ SnowMan.cpp -o run -lglfw -lGL -lGLU -lglut
+
+2- Para Castle.cpp
+$ g++ Castle.cpp -o run1 -lglfw -lGL -lGLU -lglut
+
+3- Para Robot.cpp
+$ g++ Robot.cpp -o run2 -lglfw -lGL -lGLU -lglut

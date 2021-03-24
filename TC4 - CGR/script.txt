@@ -1,0 +1,7 @@
+Garanta que as Blibliotecas do OpenGL estejam instaladas
+
+1- Para Robot_v2.cpp
+$ g++ Robot_v2.cpp -o run -lglfw -lGL -lGLU -lglut
+
+Movimento Cíclico: Andar (w)
+Movimento não Cíclico: Acenar (s)
